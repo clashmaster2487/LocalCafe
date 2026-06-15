@@ -171,7 +171,7 @@ a {
 /* D. SECTION STYLING */
 /* hero section */
 #hero {
-  background: url('./images/localcafe.jpg') no-repeat center center/cover;
+  background: url('./images/localcafe.webp') no-repeat center center/cover;
   height: 600px;
   color: #FFFFFF;
 }
